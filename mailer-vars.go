@@ -1,5 +1,5 @@
 // mailer-vars
-package sendexmail
+package sendewsmail
 
 // sender configuration
 type TConfig struct {

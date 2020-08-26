@@ -1,4 +1,4 @@
-package sendexmail
+package sendewsmail
 
 import (
 	"encoding/base64"

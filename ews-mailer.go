@@ -1,5 +1,5 @@
 // mailer
-package sendexmail
+package sendewsmail
 
 import (
 	"bytes"
