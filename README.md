@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
-	"github.com/xartreal/sendexmail"
+	"github.com/xartreal/sendewsmail"
 	"os"
 	"path/filepath"
 )
